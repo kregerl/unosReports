@@ -1,5 +1,5 @@
 Unos Reports creator using shopify data.  
-Required the following collumns to work:  
+Requires the following columns to work:  
 -shipping_region  
 -billing_region  
 -shipping_postal_code  
